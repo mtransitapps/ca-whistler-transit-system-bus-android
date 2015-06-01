@@ -1,27 +1,23 @@
 Title: Whistler Transit System Bus -…
 ----------
 Short description:
-Whistler Transit System buses for MonTransit BETA.
+Whistler Transit System buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
 Schedule from May 7, 2015 to December 11, 2015.
 Tweets from @WhistlerTransit & @BCTransit.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This app adds Whistler Transit System (BC Transit) buses information to MonTransit BETA.
+This app adds Whistler Transit System (BC Transit) buses information to MonTransit.
 
 This app provides the buses schedule and news from YouTube and @WhistlerTransit and @BCTransit on Twitter.
 
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 Whistler Transit System buses serve Whistler, Pemberton in British Columbia, Canada.
 
-Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
