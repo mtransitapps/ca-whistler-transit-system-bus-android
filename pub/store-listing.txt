@@ -5,7 +5,7 @@ Whistler Transit System buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from August 15, 2016 to September 7, 2016.
+Schedule from September 8, 2016 to November 18, 2016.
 Tweets from @WhistlerTransit & @BCTransit.
 ----------
 Full description:
