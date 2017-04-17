@@ -1,10 +1,10 @@
 101,0,'Cheakamus',1
 100,0,'Emerald',1
 201,0,'Cheakamus',2
-200,0,'Whistler Vlg',2
-301,0,'Emerald',3
-300,0,'Vlg',3
-401,0,'Marketplace-Free Shuttle',4
-501,0,'Upper Vlg / Benchlands Free Shuttle',5
-601,0,'Tapleys',6
+200,0,'Gondola Exch',2
+501,0,'Upper Vlg / Benchlands',5
+601,0,'Tapleys Connector',6
 701,0,'Staff Housing',7
+9900,0,'Pemberton',99
+9901,0,'Whistler',99
+10001,0,'Pemberton Local',100
