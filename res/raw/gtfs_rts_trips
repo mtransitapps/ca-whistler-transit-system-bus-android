@@ -1,13 +1,18 @@
-101,0,'Cheakamus',1
-100,0,'Emerald',1
-201,0,'Cheakamus',2
-200,0,'Whistler Vlg',2
-301,0,'Rainbow / Emerald',3
-300,0,'Vlg',3
 401,0,'Marketplace',4
-501,0,'Upper Vlg / Benchlands',5
+500,0,'Upper Vlg / Benchlands',5
 601,0,'Tapleys',6
 701,0,'Staff Housing',7
-9900,0,'Pemberton',99
-9901,0,'Whistler',99
-10001,0,'Pemberton Commuter',100
+2001,0,'Cheakamus',20
+2000,0,'Vlg',20
+2101,0,'Spg Crk',21
+2100,0,'Vlg',21
+2500,0,'Vlg',25
+2501,0,'Whistler Crk',25
+3000,0,'Emerald',30
+3001,0,'Vlg',30
+3100,0,'Alpine',31
+3101,0,'Whistler',31
+3200,0,'Emerald',32
+3201,0,'Vlg',32
+2400002001,0,'Cheakamus Exp',24000020
+2400002000,0,'Vlg Exp',24000020
