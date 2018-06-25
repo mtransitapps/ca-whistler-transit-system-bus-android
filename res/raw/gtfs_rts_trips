@@ -1,7 +1,6 @@
 500,0,'Upper Vlg - Benchlands',5
 601,0,'Tapley''s-Blueberry',6
 700,0,'Staff Housing',7
-801,0,'Lost Lk Shuttle - Free Service',8
 2001,0,'Cheakamus',20
 2000,0,'Vlg',20
 2101,0,'Spg Crk',21
@@ -10,5 +9,8 @@
 3001,0,'Vlg',30
 3200,0,'Emerald',32
 3201,0,'Vlg',32
+9900,0,'Pemberton',99
+9901,0,'Whistler',99
+10001,0,'Pemberton Local',100
 2400002001,0,'Cheakamus Exp',24000020
 2400002000,0,'Vlg Exp',24000020
