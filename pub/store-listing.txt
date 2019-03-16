@@ -5,7 +5,7 @@ Whistler Transit System buses for MonTransit.
 Schedule. Real time. News.
 ----------
 What's new in this version?:
-Schedule from January 22, 2019 to April 30, 2019.
+Schedule from January 22, 2019 to April 22, 2019.
 Real-time predictions from NextRide.
 Tweets from @WhistlerTransit & @BCTransit.
 ----------
