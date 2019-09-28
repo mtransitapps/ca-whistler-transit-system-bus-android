@@ -5,6 +5,6 @@
     <string name="strategic_mapping_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="strategic_mapping_api_url">https://nextride.whistler.bctransit.com/api</string>
     <string name="strategic_mapping_api_timezone">@string/gtfs_rts_timezone</string>
-    <!-- https://nextride.whistler.bctransit.com/api/Stop?term=102457 -->
-    <string name="strategic_mapping_api_search_term">Stop</string>
+    <!-- https://nextride.whistler.bctransit.com/api/SearchStops?term=102457 -->
+    <string name="strategic_mapping_api_search_term">SearchStops</string>
 </resources>
