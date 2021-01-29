@@ -1,20 +1,20 @@
-48301,0,'Marketplace',483
-48400,0,'Upper Vlg - Benchlands',484
-48501,0,'Tapley''s-Blueberry',485
-48600,0,'Staff Housing',486
-48704,0,'Cheakamus',487
-48703,0,'Emerald',487
-48804,0,'Cheakamus',488
-48803,0,'Vlg',488
-48904,0,'Cheakamus',489
-48903,0,'Vlg',489
-49004,0,'Spg Crk',490
-49003,0,'Vlg',490
-49103,0,'Vlg',491
-49104,0,'Whistler Crk',491
-49203,0,'Emerald',492
-49204,0,'Vlg',492
-49303,0,'Alpine',493
-49304,0,'Vlg',493
-49403,0,'Emerald',494
-49404,0,'Vlg',494
+200,0,'Upper Vlg - Benchlands',2
+301,0,'Tapley''s-Blueberry',3
+400,0,'Staff Housing',4
+604,0,'Cheakamus',6
+603,0,'Vlg',6
+704,0,'Cheakamus',7
+703,0,'Vlg',7
+804,0,'Spg Crk',8
+803,0,'Vlg',8
+903,0,'Emerald',9
+904,0,'Vlg',9
+1003,0,'Emerald',10
+1004,0,'Vlg',10
+1201,0,'Marketplace',12
+2003,0,'Vlg',20
+2004,0,'Whistler Crk',20
+2203,0,'Alpine',22
+2204,0,'Vlg',22
+16004,0,'Cheakamus',160
+16003,0,'Emerald',160
