@@ -1,6 +1,7 @@
 200,0,'Upper Vlg - Benchlands',2
 301,0,'Tapley''s-Blueberry',3
 400,0,'Staff Housing',4
+501,0,'Lost Lk Shuttle',5
 601,0,'Cheakamus',6
 600,0,'Vlg',6
 801,0,'Spg Crk',8
@@ -8,5 +9,6 @@
 900,0,'Alpine / Emerald',9
 901,0,'Vlg',9
 2000,0,'Vlg',20
+2001,0,'Whistler Crk',20
 16001,0,'Cheakamus',160
 16000,0,'Emerald',160
