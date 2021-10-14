@@ -1,17 +1,17 @@
 This app adds Whistler Transit System (BC Transit) buses information to MonTransit.
 
-The app contains the planned schedule as well as real time predictions from NextRide and news from YouTube and @WhistlerTransit and @BCTransit on Twitter.
+The app contains the planned schedule as well as real time predictions from NextRide and news from @WhistlerTransit and @BCTransit on Twitter.
 
 Whistler Transit System buses serve Whistler, Pemberton in British Columbia, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
 The information comes from the GTFS file provided by BC Transit.
-http://bctransit.com/*/footer/open-data
+https://www.bctransit.com/open-data
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-whistler-transit-system-bus-android
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-whistler-transit-system-bus-android
 This app is not related with BC Transit and Whistler Transit System.
 
 Permissions:
-- Other: required for real-time schedule predictions from nextride.whistler.bctransit.com and to read news from YouTube and Twitter
+- Other: required for real-time schedule predictions from nextride.whistler.bctransit.com and to read news from Twitter
