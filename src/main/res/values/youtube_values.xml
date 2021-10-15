@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="youtube_db_version">1</integer>
+    <integer name="youtube_db_version">2</integer>
     <string name="youtube_authority">org.mtransit.android.ca_whistler_transit_system_bus.news.youtube</string>
     <string name="youtube_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="youtube_color">@string/bc_transit_color</string>
@@ -12,6 +12,9 @@
     </string-array>
     <string-array name="youtube_channels_uploads_playlist_id">
         <item>UUGCojI9dGM9IfZZS1edDnvQ</item>
+    </string-array>
+    <string-array name="youtube_channels_author_icon">
+        <item>https://yt3.ggpht.com/ytc/AKedOLRVFh_1bTYbKa-HZt9mAjxf0vrvLnGQ6kSOnd_x=s88-c-k-c0x00ffffff-no-rj</item>
     </string-array>
     <string-array name="youtube_channels_author_name">
         <item>@string/bc_transit_short_name</item>
