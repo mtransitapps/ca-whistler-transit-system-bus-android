@@ -8,6 +8,10 @@
         <item>BCTransit</item>
         <item>WhistlerTransit</item>
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>67042447</item>
+        <item>398361424</item>
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
         <item>@string/news_provider_language_unknown_show_all</item>
