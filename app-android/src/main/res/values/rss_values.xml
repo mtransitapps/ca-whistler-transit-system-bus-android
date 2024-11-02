@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <integer name="rss_db_version">1</integer>
+    <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="rss_color">@string/gtfs_rts_color</string>
+    <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
+    <string name="rss_encoding">utf-8</string>
+    <string-array name="rss_feeds">
+        <item>https://www.bctransit.com/whistler/feed/</item>
+        <item>https://www.bctransit.com/feed/</item>
+        <!-- TODO? <item>https://www.bctransit.com/media/releases-and-advisories/feed/</item> -->
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://www.bctransit.com/wp-content/themes/bc-transit/assets/public/images/bus-icon.png</item>
+        <item>https://www.bctransit.com/wp-content/themes/bc-transit/assets/public/images/bus-icon.png</item>
+    </string-array>
+    <string-array name="rss_feeds_author_name">
+        <item>@string/gtfs_rts_short_name</item>
+        <item>BC Transit</item>
+    </string-array>
+    <string-array name="rss_feeds_author_url">
+        <item>https://www.bctransit.com/whistler/news/</item>
+        <item>https://www.bctransit.com/news/</item>
+    </string-array>
+    <string-array name="rss_feeds_label">
+        <item>bctransit.com</item>
+        <item>bctransit.com</item>
+    </string-array>
+    <string-array name="rss_feeds_lang">
+        <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
+    </string-array>
+    <string-array name="rss_feeds_colors">
+        <item>@string/rss_color</item>
+        <item>@string/rss_color</item>
+    </string-array>
+    <string-array name="rss_feeds_target">
+        <item>@string/rss_target_for_poi_authority</item>
+        <item>@string/rss_target_for_poi_authority</item>
+    </string-array>
+    <integer-array name="rss_feeds_severity">
+        <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_unknown</item>
+    </integer-array>
+    <string-array name="rss_feeds_noteworthy">
+        <item>@string/news_provider_noteworthy_long_term</item>
+        <item>@string/news_provider_noteworthy_long_term</item>
+    </string-array>
+    <string-array name="rss_feeds_ignore_guid">
+        <item>false</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="rss_feeds_ignore_link">
+        <item>false</item>
+        <item>false</item>
+    </string-array>
+</resources>
