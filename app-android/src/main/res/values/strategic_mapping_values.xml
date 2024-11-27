@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
     <integer name="strategic_mapping_db_version">2</integer>
-    <string name="strategic_mapping_authority">org.mtransit.android.ca_whistler_transit_system_bus.strategic_mapping</string>
     <string name="strategic_mapping_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="strategic_mapping_api_url">https://nextride.whistler.bctransit.com/api</string>
     <string name="strategic_mapping_api_timezone">@string/gtfs_rts_timezone</string>
