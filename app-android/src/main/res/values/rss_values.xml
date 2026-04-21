@@ -6,8 +6,8 @@
         <!-- TODO? <item>https://www.bctransit.com/media/releases-and-advisories/feed/</item> -->
     </string-array>
     <string-array name="rss_feeds_author_icon">
-        <item>https://www.bctransit.com/wp-content/themes/bc-transit/assets/public/images/bus-icon.png</item>
-        <item>https://www.bctransit.com/wp-content/themes/bc-transit/assets/public/images/bus-icon.png</item>
+        <item>https://www.bctransit.com/favicon.ico</item>
+        <item>https://www.bctransit.com/favicon.ico</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>@string/gtfs_rts_short_name</item>
@@ -22,8 +22,8 @@
         <item>bctransit.com</item>
     </string-array>
     <string-array name="rss_feeds_colors">
-        <item>@string/rss_color</item>
-        <item>@string/rss_color</item>
+        <item />
+        <item>@string/parent_agency_color</item>
     </string-array>
     <integer-array name="rss_feeds_severity">
         <item>@integer/news_provider_severity_info_agency</item>
