@@ -10,6 +10,7 @@
     </string-array>
     <string-array name="twitter_screen_names_colors">
         <item>@string/parent_agency_color</item>
+        <item />
     </string-array>
     <integer-array name="twitter_screen_names_severity">
         <item>@integer/news_provider_severity_info_agency</item>
