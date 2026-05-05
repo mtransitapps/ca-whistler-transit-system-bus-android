@@ -10,8 +10,8 @@
         <item>https://www.bctransit.com/favicon.ico</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
-        <item>@string/gtfs_rts_short_name</item>
-        <item>BC Transit</item>
+        <item />
+        <item>@string/parent_agency_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>https://www.bctransit.com/whistler/news/</item>
